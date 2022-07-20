@@ -71,3 +71,21 @@ Your challenge is to make their lives easier by building a tip calculator.
 IMPORTANT - Try not to use if/else statements, instead try to use a ternary operator.
 
 ** Credit to Jonas Schmedtmann for helping design these challenges!
+
+## Challenge #4: Season 2
+
+A new season has begun for the tech league. 
+
+This time around 
+
+1. Create an arrow function 'CalcAverage' to calculate the average of 3 scores
+2. Use the function to calculate the average for both teams. 
+3. Create a function 'CheckWinner' that takes teh average score of each team as parameters ('avgTake2', 'avgRush'), and then logs the winner to the console, together with the victory points, according to the rule above. Example: "Take2 win (30 vs 13)".
+4. use the 'checkWinner' function to determine the winner for both Data 1 and Data 2.
+5. Ignore draws this time.
+
+TEST DATA 1: TAKE2 SCORE 44, 23, AND 71. RUSH SCORE 65, 54, AND 49
+
+TEST DATA 2: TAKE2 SCORE 85, 54, 41. RUSH SCORE 23, 34, 27.
+
+
