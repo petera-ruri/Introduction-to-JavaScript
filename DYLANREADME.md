@@ -4,7 +4,7 @@ The challenge is a chance for you to practise the Javascript you have learned so
 
 Some of the big tech firms in Auckland are setting up a social basketball league. So far there are Datacom, Rush, Xero, Spark, and Air New Zealand. Take2 has decided to enter a team of students and teachers.
 
-Dylan and Kieran are doing some pre-season training and want to calculate and compare their Body Mass Index.
+Sione and Stephen are doing some pre-season training and want to calculate and compare their Body Mass Index.
 
 This is calculated by using the formula:
 BMI = mass/ height **2 
