@@ -1,7 +1,3 @@
-const log = 'hello'
-console.log(log)
-
-
 /*
 let js = 'amazing';
 
