@@ -107,6 +107,9 @@ console.log(nzPopulation < averageCountryPopulation);
 
 let description = 'Portugal is in Europe, and its 11 million people speak portuguese';
 
+
+
+
 // This is the start of the first coding challenge.
 // I got this correct, yes! However... He used const instead of let (he says he uses const as default)
 let markWeight = 78;
